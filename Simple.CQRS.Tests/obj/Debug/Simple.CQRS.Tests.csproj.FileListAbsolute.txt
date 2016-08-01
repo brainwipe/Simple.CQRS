@@ -5,3 +5,7 @@ C:\Development\Projects\OSS\Simple.CQRS\Simple.CQRS.Tests\bin\Debug\nunit.framew
 C:\Development\Projects\OSS\Simple.CQRS\Simple.CQRS.Tests\obj\Debug\Simple.CQRS.Tests.csprojResolveAssemblyReference.cache
 C:\Development\Projects\OSS\Simple.CQRS\Simple.CQRS.Tests\obj\Debug\Simple.CQRS.Tests.dll
 C:\Development\Projects\OSS\Simple.CQRS\Simple.CQRS.Tests\obj\Debug\Simple.CQRS.Tests.pdb
+C:\Projects\brainwipe\Simple.CQRS\Simple.CQRS.Tests\bin\Debug\Simple.CQRS.Tests.dll
+C:\Projects\brainwipe\Simple.CQRS\Simple.CQRS.Tests\bin\Debug\Simple.CQRS.Tests.pdb
+C:\Projects\brainwipe\Simple.CQRS\Simple.CQRS.Tests\obj\Debug\Simple.CQRS.Tests.dll
+C:\Projects\brainwipe\Simple.CQRS\Simple.CQRS.Tests\obj\Debug\Simple.CQRS.Tests.pdb

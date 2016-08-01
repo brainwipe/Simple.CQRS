@@ -3,3 +3,7 @@ C:\Development\Projects\OSS\Simple.CQRS\Simple.CQRS.Samples\bin\Debug\Simple.CQR
 C:\Development\Projects\OSS\Simple.CQRS\Simple.CQRS.Samples\obj\Debug\Simple.CQRS.Samples.csprojResolveAssemblyReference.cache
 C:\Development\Projects\OSS\Simple.CQRS\Simple.CQRS.Samples\obj\Debug\Simple.CQRS.Samples.dll
 C:\Development\Projects\OSS\Simple.CQRS\Simple.CQRS.Samples\obj\Debug\Simple.CQRS.Samples.pdb
+C:\Projects\brainwipe\Simple.CQRS\Simple.CQRS.Samples\bin\Debug\Simple.CQRS.Samples.dll
+C:\Projects\brainwipe\Simple.CQRS\Simple.CQRS.Samples\bin\Debug\Simple.CQRS.Samples.pdb
+C:\Projects\brainwipe\Simple.CQRS\Simple.CQRS.Samples\obj\Debug\Simple.CQRS.Samples.dll
+C:\Projects\brainwipe\Simple.CQRS\Simple.CQRS.Samples\obj\Debug\Simple.CQRS.Samples.pdb

@@ -1,13 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-using AutoMapper;
-
+﻿using AutoMapper;
 using Simple.CQRS.Domain;
 using Simple.CQRS.Exceptions;
 using Simple.CQRS.Extensions;
 using Simple.CQRS.Query;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Simple.CQRS.ModelConfiguration
 {
@@ -55,8 +53,13 @@ namespace Simple.CQRS.ModelConfiguration
 
             this.ViewType = typeof(TView);
             this.Map = map;
-            Mapper.CreateMap<TEntity, TView>();
-            Mapper.CreateMap<TView, TEntity>();
+
+            Mapper.Initialize(cfg =>
+            {
+                cfg.CreateMap<TEntity, TView>();
+                cfg.CreateMap<TView, TEntity>();
+            });
+
             return this.aggregateMap;
         }
 
