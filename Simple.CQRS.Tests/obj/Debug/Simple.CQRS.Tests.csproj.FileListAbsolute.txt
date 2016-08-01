@@ -9,3 +9,4 @@ C:\Projects\brainwipe\Simple.CQRS\Simple.CQRS.Tests\bin\Debug\Simple.CQRS.Tests.
 C:\Projects\brainwipe\Simple.CQRS\Simple.CQRS.Tests\bin\Debug\Simple.CQRS.Tests.pdb
 C:\Projects\brainwipe\Simple.CQRS\Simple.CQRS.Tests\obj\Debug\Simple.CQRS.Tests.dll
 C:\Projects\brainwipe\Simple.CQRS\Simple.CQRS.Tests\obj\Debug\Simple.CQRS.Tests.pdb
+C:\Projects\brainwipe\Simple.CQRS\Simple.CQRS.Tests\obj\Debug\Simple.CQRS.Tests.csprojResolveAssemblyReference.cache
